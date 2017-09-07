@@ -175,6 +175,7 @@ export default class Page extends Component {
 
     return (
       <div
+        { ...other }
         className="ReactPDF__Page"
         style={{ position: 'relative' }}
       >
