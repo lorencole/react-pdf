@@ -1,6 +1,6 @@
 {
   "name": "react-pdf-with-onclick",
-  "version": "2.0.9",
+  "version": "2.0.20",
   "description": "Easily display PDF files in your React application.",
   "main": "build/entry.js",
   "es6": "src/entry.js",
